@@ -36,3 +36,13 @@ Contains trading outcomes, trader IDs, and performance indicators
 - Accuracy: ~76%
 
 - Best performance on classifying traders during Fear sentiment
+
+**🛠️ Tools & Technology Used**
+- Jupyter Notebook is used as IDE.
+  
+- Pandas is used for Data Manipulation & Pre-processing.
+
+- For visualization of the plots, Matplotlib, Seaborn, Plotly are used.
+
+- GitHub is used as version control system.
+![tools_used](https://github.com/user-attachments/assets/609660c3-b125-458f-9fc2-ba0bc6e88681)
