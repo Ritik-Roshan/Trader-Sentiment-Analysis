@@ -12,31 +12,22 @@ Historical Trader Dataset - https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToq
 Contains trading outcomes, trader IDs, and performance indicators
 
 # 🧠 Methodology
-Data Loading & Cleaning
-Merged sentiment data with trader performance based on date.
+**Data Loading & Cleaning**
+    - Merged sentiment data with trader performance based on date.
 
-Exploratory Data Analysis (EDA)
+**Exploratory Data Analysis (EDA)**
+    - Visualized class distribution, trends, and correlations
+    - Checked for missing values and outliers
 
-Visualized class distribution, trends, and correlations
+**Feature Engineering**
+    - Categorical encoding
+    - Date feature extraction
+    - Sentiment labeling
 
-Checked for missing values and outliers
+**Modeling**
+    - Random Forest Classifier
+    - Performance Metrics: Accuracy, Precision
 
-Feature Engineering
-
-Categorical encoding
-
-Date feature extraction
-
-Sentiment labeling
-
-Modeling
-
-Random Forest Classifier
-
-Performance Metrics: Accuracy, Precision
-
-Results
-
-Accuracy: ~76%
-
-Best performance on classifying traders during Fear sentiment
+**Results**
+    - Accuracy: ~76%
+    - Best performance on classifying traders during Fear sentiment
