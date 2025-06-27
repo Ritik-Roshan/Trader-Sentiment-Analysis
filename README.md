@@ -17,6 +17,7 @@ Contains trading outcomes, trader IDs, and performance indicators
 
 **Exploratory Data Analysis (EDA)**
     - Visualized class distribution, trends, and correlations
+    
     - Checked for missing values and outliers
 
 **Feature Engineering**
