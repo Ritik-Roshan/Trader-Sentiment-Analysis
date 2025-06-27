@@ -13,22 +13,26 @@ Contains trading outcomes, trader IDs, and performance indicators
 
 # 🧠 Methodology
 **Data Loading & Cleaning**
-    - Merged sentiment data with trader performance based on date.
+- Merged sentiment data with trader performance based on date.
 
 **Exploratory Data Analysis (EDA)**
-    - Visualized class distribution, trends, and correlations
+- Visualized class distribution, trends, and correlations
     
-    - Checked for missing values and outliers
+- Checked for missing values and outliers
 
 **Feature Engineering**
-    - Categorical encoding
-    - Date feature extraction
-    - Sentiment labeling
+- Categorical encoding
+  
+- Date feature extraction
+  
+- Sentiment labeling
 
 **Modeling**
-    - Random Forest Classifier
-    - Performance Metrics: Accuracy, Precision
+- Random Forest Classifier
+
+- Performance Metrics: Accuracy, Precision
 
 **Results**
-    - Accuracy: ~76%
-    - Best performance on classifying traders during Fear sentiment
+- Accuracy: ~76%
+
+- Best performance on classifying traders during Fear sentiment
