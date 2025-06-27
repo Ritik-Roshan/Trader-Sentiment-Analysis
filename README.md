@@ -1,5 +1,12 @@
 # Trader-Sentiment-Analysis
 ![jupyter-notebook](https://github.com/user-attachments/assets/2ca75053-14b0-4b0c-8cbe-f6cf9cbefebe)
+![made-with-python](https://github.com/user-attachments/assets/b3620304-6fd8-442d-be59-eac409607635)
+![matplotlib](https://github.com/user-attachments/assets/bed11ff9-4a90-42bd-b5ff-7fbb2556e32b)
+![numpy](https://github.com/user-attachments/assets/d8f1f964-e021-4f6d-8ad3-bbe900fad431)
+![pandas](https://github.com/user-attachments/assets/7e74df6b-f973-4170-aa62-4a3a139716f6)
+![plotly](https://github.com/user-attachments/assets/451d6d34-9739-47b2-b472-c6ab410664c6)
+![seaborn](https://github.com/user-attachments/assets/d5936529-2c5d-409b-bf96-2a59d3dcac80)
+
 
 This project analyzes how trader sentiment (fear or greed) influences trading behavior using a combination of market sentiment data and historical trader data. The objective is to build a classification model that can predict trader sentiment and explore how it affects trading outcomes.
 
