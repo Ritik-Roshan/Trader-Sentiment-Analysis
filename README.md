@@ -47,7 +47,7 @@ Contains trading outcomes, trader IDs, and performance indicators
 - Best performance on classifying traders during Fear sentiment
 
 
-#🛠️ Tools & Technology Used
+# 🛠️ Tools & Technology Used
 - Jupyter Notebook is used as IDE.
   
 - Pandas is used for Data Manipulation & Pre-processing.
